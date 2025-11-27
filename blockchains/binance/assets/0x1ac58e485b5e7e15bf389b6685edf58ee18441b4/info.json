@@ -1,0 +1,10 @@
+{
+  "name": "Arsenal Trophy Token",
+  "symbol": "ATT",
+  "decimals": 18,
+  "description": "A community-driven token inspired by Arsenal’s legacy.",
+  "website": "",
+  "explorer": "https://bscscan.com/token/0x1ac58e485b5e7e15bf389b6685edf58ee18441b4",
+  "status": "active",
+  "id": "0x1ac58e485b5e7e15bf389b6685edf58ee18441b4"
+}
